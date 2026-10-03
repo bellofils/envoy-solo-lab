@@ -1,0 +1,2 @@
+Marp est un outil qui convertit du Markdown en slides. Installable via VS Code (extension "Marp for VS Code") ou en CLI (npm i -g @marp-team/marp-cli).
+Compilation : marp slides.md -o slides.pdf ou marp --html slides.md pour la prévisualisation.
